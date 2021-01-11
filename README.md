@@ -23,4 +23,13 @@ This is a graphical user interface. It will take the information from the users 
 
 ## GUI 
 
-![image]() 
+All the information will be added here and you can view the entries there as well.
+
+![image](https://github.com/Usman-Ghani123/My-University-Database/blob/main/gui-template.PNG) 
+
+
+## Database
+
+Student table is created in university_db Database.
+
+![image](https://github.com/Usman-Ghani123/My-University-Database/blob/main/University_db.PNG)
